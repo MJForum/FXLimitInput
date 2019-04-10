@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FXLimitInput_Tests' do
+  pod 'FXLimitInput', :path => '../'
+  
+  
+end
