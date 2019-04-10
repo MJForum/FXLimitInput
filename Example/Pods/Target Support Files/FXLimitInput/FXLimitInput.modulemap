@@ -1,0 +1,6 @@
+framework module FXLimitInput {
+  umbrella header "FXLimitInput-umbrella.h"
+
+  export *
+  module * { export * }
+}

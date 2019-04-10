@@ -1,0 +1,16 @@
+PODS:
+  - FXLimitInput (0.1.0)
+
+DEPENDENCIES:
+  - FXLimitInput (from `../`)
+
+EXTERNAL SOURCES:
+  FXLimitInput:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FXLimitInput: 91f53a3376a4af860121f4d5509bf95b8538d27c
+
+PODFILE CHECKSUM: 9a756fab566cb2a055052cf644fe20e79b434219
+
+COCOAPODS: 1.5.3
